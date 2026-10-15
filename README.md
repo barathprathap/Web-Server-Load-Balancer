@@ -17,7 +17,7 @@ Browser → Load balancer (port 8080) → Backend server 1 (port 9001)
 
 This project uses Python’s standard library, so it does not need additional packages.
 
-🪟## Run it on Windows
+## Run it on Windows 🪟
 
 Open three terminals in the project folder.
 
@@ -41,12 +41,12 @@ python balancer.py
 
 Then open [http://localhost:8080](http://localhost:8080) in your browser. Refresh the page to see responses from the backend servers.
 
-## Project files
+## Project files 📂
 
 - `balancer.py` — receives requests and forwards them to backend servers in turn.
 - `backend.py` — runs a small backend server and displays its name in the response.
 
-## What I learned
+## What I learned 📚
 
 - How a reverse proxy receives and forwards web requests.
 - How round-robin routing distributes requests across servers.
