@@ -1,4 +1,4 @@
-# Python Web Load Balancer
+🐍# Python Web Load Balancer
 
 A small web load balancer I built to learn how requests can be shared between multiple web servers.
 
@@ -17,7 +17,7 @@ Browser → Load balancer (port 8080) → Backend server 1 (port 9001)
 
 This project uses Python’s standard library, so it does not need additional packages.
 
-## Run it on Windows
+🪟## Run it on Windows
 
 Open three terminals in the project folder.
 
