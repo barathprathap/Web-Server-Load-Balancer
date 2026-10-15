@@ -1,4 +1,4 @@
-#🐍Python Web Load Balancer
+# 🐍Python Web Load Balancer
 
 A small web load balancer I built to learn how requests can be shared between multiple web servers.
 
